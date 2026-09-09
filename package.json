@@ -1,0 +1,9 @@
+{
+  "name": "ankur-singh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ankur Singh personal portfolio site with a serverless contact form for Vercel.",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
